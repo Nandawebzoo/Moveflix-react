@@ -6,7 +6,7 @@ import {
   Route,
   createRoutesFromElements,
 } from 'react-router-dom';
-import AppShell from './components/appshell';
+import AppShell from './components/Appshell';
 import Homepage from './pages/Homepage';
 import Library from './pages/Library';
 import Contact from './pages/Contact';
